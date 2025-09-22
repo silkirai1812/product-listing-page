@@ -10,7 +10,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro1.png",
+  imageUrl: "/images/pro1.png",
 },
 {
   id: 2,
@@ -23,7 +23,7 @@ export const products = [
   isHot: true,
   colors: ["#FF0000"],
   category: "Bags",
-  imageUrl: "../public/images/bag1.png",
+  imageUrl: "/images/bag1.png",
 },
 {
   id: 3,
@@ -36,7 +36,7 @@ export const products = [
   isHot: true,
   colors: ["#FFFFFF"],
   category: "Bags",
-  imageUrl: "../public/images/bag2.png",
+  imageUrl: "/images/bag2.png",
 },
 {
   id: 4,
@@ -49,7 +49,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro4.png",
+  imageUrl: "/images/pro4.png",
 },
 {
   id: 5,
@@ -62,7 +62,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro5.png",
+  imageUrl: "/images/pro5.png",
 },
 {
   id: 6,
@@ -75,7 +75,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro6.png",
+  imageUrl: "/images/pro6.png",
 },
 {
   id: 7,
@@ -88,7 +88,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro2.jpg",
+  imageUrl: "/images/pro2.jpg",
 },
 {
   id: 8,
@@ -101,7 +101,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro3.jpg",
+  imageUrl: "/images/pro3.jpg",
 },
 {
   id: 9,
@@ -114,7 +114,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/bag3.jpg",
+  imageUrl: "/images/bag3.jpg",
 },
 {
   id: 10,
@@ -127,7 +127,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/s1.jpg",
+  imageUrl: "/images/s1.jpg",
 },
 {
   id: 11,
@@ -140,7 +140,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/a1.jpg",
+  imageUrl: "/images/a1.jpg",
 },
 {
   id: 12,
@@ -153,7 +153,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/bag4.jpg",
+  imageUrl: "/images/bag4.jpg",
 },
 {
   id: 13,
@@ -166,7 +166,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/b1.jpg",
+  imageUrl: "/images/b1.jpg",
 },
 {
   id: 14,
@@ -179,7 +179,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/bag5.jpg",
+  imageUrl: "/images/bag5.jpg",
 },
 {
   id: 15,
@@ -192,7 +192,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/bag6.jpg",
+  imageUrl: "/images/bag6.jpg",
 },
 {
   id: 16,
@@ -205,7 +205,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/b2.jpg",
+  imageUrl: "/images/b2.jpg",
 },
 {
   id: 17,
@@ -218,7 +218,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/b3.jpg",
+  imageUrl: "/images/b3.jpg",
 },
 {
   id: 18,
@@ -231,7 +231,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/s2.jpg",
+  imageUrl: "/images/s2.jpg",
 },
 {
   id: 19,
@@ -244,7 +244,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/b4.jpg",
+  imageUrl: "/images/b4.jpg",
 },
 {
   id: 20,
@@ -257,7 +257,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/b5.jpg",
+  imageUrl: "/images/b5.jpg",
 },
 {
   id: 21,
@@ -270,7 +270,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/a2.jpg",
+  imageUrl: "/images/a2.jpg",
 },
 {
   id: 22,
@@ -283,7 +283,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/b6.jpg",
+  imageUrl: "/images/b6.jpg",
 },
 {
   id: 23,
@@ -296,7 +296,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/a3.jpg",
+  imageUrl: "/images/a3.jpg",
 },
 {
   id: 24,
@@ -309,7 +309,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/s3.jpg",
+  imageUrl: "/images/s3.jpg",
 },
 {
   id: 25,
@@ -322,7 +322,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/a4.jpg",
+  imageUrl: "/images/a4.jpg",
 },
 {
   id: 26,
@@ -335,7 +335,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/s4.jpg",
+  imageUrl: "/images/s4.jpg",
 },
 {
   id: 27,
@@ -348,7 +348,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/a5.jpg",
+  imageUrl: "/images/a5.jpg",
 },
 {
   id: 28,
@@ -361,7 +361,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/a6.jpg",
+  imageUrl: "/images/a6.jpg",
 },
 {
   id: 29,
@@ -374,7 +374,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/s5.jpg",
+  imageUrl: "/images/s5.jpg",
 },
 {
   id: 30,
@@ -387,7 +387,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/s6.jpg",
+  imageUrl: "/images/s6.jpg",
 },
 {
   id: 31,
@@ -400,7 +400,7 @@ export const products = [
   isHot: true,
   colors: ["#000000", "#FF0000", "#FFFFFF"],
   category: "Footwear",
-  imageUrl: "../public/images/pro1.png",
+  imageUrl: "/images/pro1.png",
 },
 
 

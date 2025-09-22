@@ -115,7 +115,7 @@ export default function Home() {
               className="flex justify-center ml-18 mt-4 md:mt-0"
             >
               <img
-                src="../public/images/pro.png"
+                src="/images/pro.png"
                 alt="Sneakers"
                 className="w-48 sm:w-60 md:w-72 lg:w-96 drop-shadow-xl"
               />
